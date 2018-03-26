@@ -1,0 +1,4 @@
+#Fri Mar 09 21:52:19 CST 2018
+base.0=C\:\\Users\\Badegg\\AndroidStudioProjects\\WakeItUp\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
